@@ -7,27 +7,27 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: 王学贤
+  email: zerowxxyf@gmail.com
+  link: http://zerowxx.tk
+  weibo: http://weibo.com/zerowxx
+  github: http://github.com/zerowxx
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 王学贤的博客 
+description: 王学贤的博客
+url: http://zerowxx.tk
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+#avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # google analytics 设置
-ga:
-  id: UA-54767140-1
-  url: yansu.org
+#ga:
+#  id: UA-54767140-1
+#  url: yansu.org
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: zerowxx
